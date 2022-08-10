@@ -5,3 +5,6 @@ Data Science Portfolio
 
 * Increased testing accuracy by 7% by using CoAtNet model for Covid and pneumonia image classification and solved the problem of overfitting. 
 * Lessen the burden of Covid diagnostics for medical system by introducing machine learning models for image classification
+
+# Project 2: Fragile families Case Study
+* Some descriptions here
