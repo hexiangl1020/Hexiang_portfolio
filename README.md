@@ -7,9 +7,9 @@ Data Science Portfolio
 * This is a three-class classification, representing bar, line and scatter. 
 * We want to predict the best chart type to visualize each dataset using machine learning model rather than use rule-based system, which is commonly used but has many limitations. 
 
-![](https://github.com/hexiangl1020/vizml_NNmodel/blob/hexiang/images/learningcurve/train_val.png)
+![](images/train_val.png)
 
-![](https://github.com/hexiangl1020/vizml_NNmodel/blob/hexiang/images/confusion_matrix/confusion_matrix.png)
+![](images/confusion_matrix.png)
 
 # [Project 2: Covid and Pneumonia X-Ray image classification](https://github.com/hexiangl1020/CoAtNet-covid-19-image-classification)
 
@@ -18,9 +18,9 @@ Data Science Portfolio
 * A ResNet model was built as a baseline model, with training accuracy of 0.96 and 0.92 of testing accuracy for 15,000 images. The training accuracy is over 0.99 with only 0.89 testing accuracy when we trained only 3,000 images, which indicates a possible overfitting here. 
 * A CoAtNet model overcame the problem of overfitting by showing 0.87 training accuracy and 0.85 testing accuracy for only 3,000 images. Since the SageMaker did not support the Tensorflow version we were using, we could not run the whole training data for the CoAtNet model. However the learning curve did not show any sign of overfitting, which indicated a promising result for this model. 
 
-![](https://github.com/hexiangl1020/CoAtNet-covid-19-image-classification/blob/main/images/resnet_partial.png)
+![](images/resnet_partial.png)
 
-![](https://github.com/hexiangl1020/CoAtNet-covid-19-image-classification/blob/main/images/coatnet_partial.png)
+![](images/coatnet_partial.png)
 
 # Project 3: Fragile families Case Study
 * Since youth wellbeing and mental health raised more concerns nowadays, we chose to buid a model to study what factors are correlated to youth wellbeing.
@@ -29,6 +29,6 @@ Data Science Portfolio
 * A few models were constructed and evaluated based on their performances, including linear regression (with or without LASSO regularization), logistic regresstion (with or without LASSO regularization), RandomForest model and a ensemble of all models. 
 * The result revealed that co-sleeping, consistent bedtime routine, household smoking and prenatal alcohol consumption are important features related to youth wellbeing. We may focus on improvement on these factors to preventing long term effects. 
 
-![](https://github.com/hexiangl1020/fragile_family/blob/main/images/OOB_error.png)
+![](images/OOB_error.png)
 
-![](https://github.com/hexiangl1020/fragile_family/blob/main/images/OOB_mtry.png)
+![](images/OOB_mtry.png)
