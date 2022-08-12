@@ -9,6 +9,8 @@ Data Science Portfolio
 
 ![](https://github.com/hexiangl1020/vizml_NNmodel/tree/hexiang/images/learningcurve)
 
+![](https://github.com/hexiangl1020/vizml_NNmodel/blob/hexiang/images/confusion_matrix/confusion_matrix.png)
+
 # [Project 2: Covid and Pneumonia X-Ray image classification](https://github.com/hexiangl1020/CoAtNet-covid-19-image-classification)
 
 * Increased testing accuracy by 7% by using CoAtNet model for Covid and pneumonia image classification and solved the problem of overfitting. 
