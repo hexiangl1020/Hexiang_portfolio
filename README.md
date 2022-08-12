@@ -7,7 +7,7 @@ Data Science Portfolio
 * This is a three-class classification, representing bar, line and scatter. 
 * We want to predict the best chart type to visualize each dataset using machine learning model rather than use rule-based system, which has many limitations. 
 
-
+![](https://github.com/hexiangl1020/vizml_NNmodel/tree/hexiang/images/learningcurve)
 
 # [Project 2: Covid and Pneumonia X-Ray image classification](https://github.com/hexiangl1020/CoAtNet-covid-19-image-classification)
 
