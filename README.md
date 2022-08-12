@@ -7,7 +7,7 @@ Data Science Portfolio
 * This is a three-class classification, representing bar, line and scatter. 
 * We want to predict the best chart type to visualize each dataset using machine learning model rather than use rule-based system, which is commonly used but has many limitations. 
 
-![](https://github.com/hexiangl1020/vizml_NNmodel/tree/hexiang/images/learningcurve/train_val.png)
+![](https://github.com/hexiangl1020/vizml_NNmodel/blob/hexiang/images/learningcurve/train_val.png)
 
 ![](https://github.com/hexiangl1020/vizml_NNmodel/blob/hexiang/images/confusion_matrix/confusion_matrix.png)
 
