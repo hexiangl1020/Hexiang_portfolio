@@ -5,7 +5,7 @@ Data Science Portfolio
 
 * Established a neural network model to recommend the best chart types for visualization and achieved 92% testing accuracy. 
 * This is a three-class classification, representing bar, line and scatter. 
-* TO predict the best chart type for visualization using machine learning model rather than use rule-based system, which is commonly seen but has many limitations. 
+* To predict the best chart type for visualization using machine learning model rather than use rule-based system, which is commonly seen but has many limitations. 
 
 ![](images/train_val.png)
 
