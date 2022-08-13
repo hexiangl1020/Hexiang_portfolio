@@ -32,3 +32,15 @@ Data Science Portfolio
 ![](images/OOB_error.png)
 
 ![](images/OOB_mtry.png)
+
+# [Project 4: Movie Recommendor system](https://github.com/hexiangl1020/Movie_Recommendor)
+* Developed a movie recommendor system using IMDB database which used both collaborative filtering and content-based filtering methods in sklearn.
+* Implemented singular value decomposition (SVD) to factorize the movie-rating matrix and used cosine similarities to define the similarities between users.
+* Transformed the movie descriptions to features by TF-IDF and measured the cosine similarities between movies.
+
+
+![](images/top500_words.png)
+
+![](images/movie_correlation.png)
+
+![](images/movie_genre.png)
